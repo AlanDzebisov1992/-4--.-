@@ -6,7 +6,7 @@
 
 a, b, c, d, e = map(int, input().split())
 d =  d ** e
-c = d * 2 
+c = d * c 
 a = a - b  
 d = c // a 
 print(d)
